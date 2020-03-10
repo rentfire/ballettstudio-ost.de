@@ -1,0 +1,55 @@
+<html>
+<head>
+    <meta content="text/VBScript" http-equiv="content-script-type" />
+    <title>HTA Countdown</title>
+    <HTA:APPLICATION 
+        ID="objMyHTA" 
+        APPLICATIONNAME="Timer"
+        SCROLL="no"
+        SINGLEINSTANCE="yes"
+        />
+    <script language="vbscript">
+    <!--
+
+ CenterWindow 30, 20
+ timeS = InputBox ("Bitte geben Sie einen Wert für den Timer an. (1000 sind dabei 10 Sekunden)")
+  
+
+    Sub Window_OnLoad
+        CenterWindow 300, 720
+          for i = 1 to timeS
+	' for i = 1 to 1000
+            OutMsg2 "running " &   i & " von "  & timeS
+	   ' OutMsg2 "running " &   i & " \ 1000"  
+        next
+
+ ' hier können Sie Ihren Code einarbeiten
+ ' Der Wert 1000 entspricht etwa 10 Sekunden
+
+ msgbox "B O O M !!!!!"
+ self.close()
+
+    End Sub
+    
+     Sub OutMsg2( msg )
+        Div1.innerHTML = Div1.innerHTML  & msg & "<br/>"
+        Div1.doScroll("pageDown")
+    End Sub
+    Sub CenterWindow( widthX, heightY )
+        self.ResizeTo widthX, heightY 
+        self.MoveTo (screen.Width - widthX)/2, (screen.Height - heightY)/2
+    End Sub
+        
+ 
+    -->
+    </script>
+</head>
+<body style="scroll:no;">
+<div id="div1" style=" background-color:#FF3366; width: 100%; height: 400px; word-break:keep-all; overflow:auto">
+</div>
+</body>
+
+
+
+<hr />
+<img src="https://previews.123rf.com/images/didora/didora1312/didora131200045/24510753-explodierenden-bombe-und-boom-zeichen-auf-wei%C3%9Fem-isoliert.jpg" style="float: left;" alt="" width="260" height="260"/>
