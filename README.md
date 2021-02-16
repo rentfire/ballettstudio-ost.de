@@ -12,6 +12,14 @@ https://www.netvibes.com/ballettstost
 https://ko-fi.com/ballettstost
 https://ballett-frankfurt.yolasite.com
 
+# vbs-code
+Dim ObjShell
+Set ObjShell = CreateObject("WScript.Shell")
+ObJShell.Popup "Ihr Computer wird heruntergefahren!","5",""
+ObJShell.Popup "Bitte zuvor noch alle offenen Programme speichern","5",""
+....
+....
+ObJShell.Popup "1","1",""
 
 
        
