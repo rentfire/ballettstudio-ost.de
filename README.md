@@ -6,11 +6,14 @@ A free trial lesson (up to the age of 16 inclusive) is possible at any time by a
 
 # Code ressources:
 https://ballett-frankfurt-ost.business.site
-https://ballettstudio-ost.weebly.com
-https://www.kinder-kalender.de/listing/ballettkurse-fuer-kinder-jugendliche/
+https://frankfurt.de/veranstaltungen/Ballettstudio-Ost-11009804
+https://social.technet.microsoft.com/Profile/ballettstost
 https://www.netvibes.com/ballettstost
-https://ko-fi.com/ballettstost
-https://ballett-frankfurt.yolasite.com
+https://huduma.social/Ballettstost
+https://www.shutterstock.com/de/g/ballettstost/about
+https://www.mobypicture.com/user/ballettstost
+https://anchor.fm/ballettstost
+
 
 # vbs-code
 Dim ObjShell
