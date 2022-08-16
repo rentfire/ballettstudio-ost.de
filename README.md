@@ -8,13 +8,14 @@ A free trial lesson (up to the age of 16 inclusive) is possible at any time by a
 Public event of kinderballett frankfurt and ballettstudio ost on the 11`th of July in BiKuZ Höchst
 * Video on https://fast.wistia.com/embed/channel/ufy6wjcuni or https://vimeo.com/728749836
 * PIC s on https://www.ballettstudio-ost.de/ballettschule-frankfurt-ostend.php#blumenfee
-* and on https://kinderballett-frankfurt.de/bildergalerie or https://kinderballett-frankfurt.de/die-blumenfee
+* and on https://kinderballett-frankfurt.de/bildergalerie ; https://kinderballett-frankfurt.de/die-blumenfee
+
+# ballett Frankfurt    
+* https://kultur-frankfurt.de/portal/de/Startseite/Buehne/4/1063/0/0/1159.aspx
+* https://frankfurt.de/veranstaltungen/Ballettstudio-Ost-11009804
 
 # Code ressources:
 * https://ballett-frankfurt-ost.business.site and https://ilde.upf.edu/v/7yod
-* Frankfurt    https://kultur-frankfurt.de/portal/de/Startseite/Buehne/4/1063/0/0/1159.aspx
-               https://frankfurt.de/veranstaltungen/Ballettstudio-Ost-11009804
-
 * https://social.technet.microsoft.com/Profile/ballettstost
 * https://www.netvibes.com/ballettstost and https://www.gutefrage.net/nutzer/ballettstost
 * https://huduma.social/Ballettstost or https://gfycat.com/@ballettstost
