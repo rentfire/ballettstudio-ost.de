@@ -12,8 +12,8 @@ Public event of kinderballett frankfurt and ballettstudio ost on the 11`th of Ju
 
 # Code ressources:
 * https://ballett-frankfurt-ost.business.site and https://ilde.upf.edu/v/7yod
-* Frankfurt  >>>> https://kultur-frankfurt.de/portal/de/Startseite/Buehne/4/1063/0/0/1159.aspx
-             >>>> https://frankfurt.de/veranstaltungen/Ballettstudio-Ost-11009804
+* Frankfurt    https://kultur-frankfurt.de/portal/de/Startseite/Buehne/4/1063/0/0/1159.aspx
+               https://frankfurt.de/veranstaltungen/Ballettstudio-Ost-11009804
 
 * https://social.technet.microsoft.com/Profile/ballettstost
 * https://www.netvibes.com/ballettstost and https://www.gutefrage.net/nutzer/ballettstost
